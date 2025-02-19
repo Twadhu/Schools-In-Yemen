@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>لوحة تحكم الطالب</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #218c74;
+            color: white;
+            padding: 10px;
+        }
+        footer {
+            background-color: #218c74;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>مرحبًا بك في منصتك التعليمية</h1>
+    </header>
+
+    <main>
+        <p>نحن مواصلون في تحديث المنصة، شكرًا لك.</p>
+    </main>
+
+    <footer>
+        <p>تم إنشاء الصفحة بواسطة عبدالله عباس، جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
